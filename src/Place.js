@@ -26,6 +26,7 @@ class Places extends Component {
   render() {
     return (
       <input
+        {...props}
         disabled={this.props.disabled}
         ref={(input) => {this.autoCompletePlace = input;}}
       />
