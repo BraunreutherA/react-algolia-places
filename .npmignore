@@ -1,7 +1,6 @@
 .babelrc
 .eslintrc
 yarn.lock
-src
 demo
 CODE_OF_CONDUCT.md
 CHANGELOG.md
