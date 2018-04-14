@@ -2,7 +2,7 @@
   "name": "react-algolia-places",
   "version": "0.1.1",
   "description": "A simple but powerful React.js wrapper around fantastic Algolia's place !",
-  "main": "build/index.js",
+  "main": "src/Place.js",
   "scripts": {
     "demo": "echo \"Error: the demo file is missing\" && exit 1",
     "lint": "./node_modules/.bin/eslint -c .eslintrc ./src --fix",
